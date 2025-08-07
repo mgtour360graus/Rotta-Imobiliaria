@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="21009" appversion="7.1.10" start="node1">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-41.4371" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="" longitude="-52.15684840" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-41.4371" latitude="-32.18196331" copyright="" nodeid="node1" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="1.5" description="" pan="-344.97" distance="13.3001" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node4}" target="-21.0/0.0/100.0" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="-0.51530100000000001" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.51832500000000004">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-60.1808" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15695032" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-60.1808" latitude="-32.18188045" copyright="" nodeid="node4" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-11.74" description="" pan="-212.43" distance="13.3001" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node1}" target="-174.0/0.0/108.2" id="Point01"/>
+      <hotspot tilt="-3.9" description="" pan="-109.8" distance="6.52985" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node3}" target="-27.0/0.0/108.2" id="Point02"/>
+      <hotspot tilt="-3.65" description="" pan="-29.59" distance="6.34191" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node6}" target="6.0/0.0/100.0" id="Point03"/>
+      <hotspot tilt="1.15" description="" pan="-324.61" distance="2.77715" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node2}" target="62.0/0.0/126.6" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="25.3229" fovmode="2">
+      <start tilt="0" pan="73.4825" projection="4" fov="97.4355"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15689802" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="25.3229" latitude="-32.18184186" copyright="" nodeid="node3" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-3.36" description="" pan="-211.59" distance="6.52985" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node4}" target="71.0/0.0/136.9" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3264" overlap="1" height="3264" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3264" preload="0" predecode="0" height="3264"/>
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-17.8804" fovmode="2">
+      <start tilt="0" pan="22.3515" projection="4" fov="97.4355"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15691981" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-17.8804" latitude="-32.18179163" copyright="" nodeid="node5" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-1.6" description="" pan="-267.96" distance="9.38427" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node6}" target="73.0/0.0/108.2" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="-0.22873099999999999" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.0014004600000000001">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-33.2529" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15699994" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-33.2529" latitude="-32.18184186" copyright="" nodeid="node6" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-4.42" description="" pan="-189.86" distance="6.34191" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node4}" target="159.4/-2.4/117.0" id="Point01"/>
+      <hotspot tilt="-2.33" description="" pan="-99.05" distance="9.38427" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node5}" target="-69.7/-4.0/100.0" id="Point02"/>
+      <hotspot tilt="-0.37" description="" pan="-0.13" distance="3.01716" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node7}" target="5.0/0.0/108.2" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-37.6174" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15701939" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-37.6174" latitude="-32.18182029" copyright="" nodeid="node7" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-2.75" description="" pan="-186.1" distance="3.01716" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node6}" target="168.0/0.0/108.2" id="Point01"/>
+      <hotspot tilt="0.24" description="" pan="-321.16" distance="2.07507" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node8}" target="61.2/-4.4/117.0" id="Point02"/>
+      <hotspot tilt="-2.26" description="" pan="-72.55" distance="2.29298" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node10}" target="-174.0/0.0/136.9" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="-0.087288000000000004" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-1.5191399999999999">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-15.0291" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15704017" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-15.0291" latitude="-32.18182653" copyright="" nodeid="node8" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="0.15" description="" pan="-131.48" distance="2.07507" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node7}" target="-143.0/0.0/117.0" id="Point01"/>
+      <hotspot tilt="-3.25" description="" pan="-48.91" distance="1.21385" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node9}" target="-39.0/0.0/100.0" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15703414" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="0" latitude="-32.18181688" copyright="" nodeid="node9" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="2.84" description="" pan="-179.95" distance="1.21385" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node8}" target="152.0/0.0/126.6" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-136.084" fovmode="2">
+      <start tilt="0" pan="-91.5331" projection="4" fov="85.733"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15699927" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-136.084" latitude="-32.18180866" copyright="" nodeid="node10" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="0.68" description="" pan="-345.55" distance="2.29298" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node7}" target="123.0/0.0/126.6" id="Point01"/>
+      <hotspot tilt="-5.2" description="" pan="-147.16" distance="1.07917" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node11}" target="172.8/-2.5/126.6" id="Point02"/>
+      <hotspot tilt="-6.45" description="" pan="-100.74" distance="2.15372" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node12}" target="177.6/1.0/100.0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-173.1" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15699022" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-173.1" latitude="-32.18180270" copyright="" nodeid="node11" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-0.52" description="" pan="-49.17" distance="1.07917" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node10}" target="14.0/0.0/126.6" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="137.355" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15701369" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="137.355" latitude="-32.18179362" copyright="" nodeid="node12" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="0.07" description="" pan="-259.5" distance="1.63763" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node13}" target="154.8/-1.9/117.0" id="Point01"/>
+      <hotspot tilt="-4.49" description="" pan="-181.32" distance="2.34336" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node14}" target="-74.0/0.0/136.9" id="Point02"/>
+      <hotspot tilt="-1.26" description="" pan="-4.92" distance="2.15372" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node10}" target="79.0/0.0/117.0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="184.093" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15700396" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="184.093" latitude="-32.18178141" copyright="" nodeid="node13" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-0.55" description="" pan="-353.03" distance="1.63763" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node12}" target="-49.0/0.0/126.6" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-118.355" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15703112" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-118.355" latitude="-32.18177857" copyright="" nodeid="node14" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-2.94" description="" pan="-302.54" distance="2.34336" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node12}" target="-3.0/0.0/126.6" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3000" overlap="1" height="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-45.4302" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" pan="360" fovstereographic="330" scaletofit="1" fov="140"/>
+    </view>
+    <userdata description="" comment="" tags="1" longitude="-52.15697781" customnodeid="" author="" datetime="" title="Rotta Imobiliária | Imobiliária no Cassino" info="" heading="-45.4302" latitude="-32.18188953" copyright="" nodeid="node2" source=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundalpha="1" background="1" borderradius="1" enabled="1" wordwrap="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundcolor="0xffffff" height="20" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-2.65" description="" pan="-135.38" distance="2.77715" title="Rotta Imobiliária | Imobiliária no Cassino" skinid="ht_node" url="{node4}" target="-151.0/0.0/126.6" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" delay="none" enabled="1" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" zoomin="0" zoomfov="40" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" invertwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedwheel="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="Rotta Imobiliária | Imobiliária no Cassino" description="" comment="" tags="" copyright="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
